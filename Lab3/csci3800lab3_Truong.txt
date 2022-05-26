@@ -1,0 +1,110 @@
+Script started on Sun Apr 17 20:51:20 2022
+]0;truongiv@csci-gnode-02:~/csci3800sp22/Lab3[?1034h[truongiv@csci-gnode-02 Lab3]$ make
+gcc -ansi -I../apue.3e/include -Wall -DLINUX -D_GNU_SOURCE  daysLeft.c -o daysLeft  -L../apue.3e/lib -lapue 
+]0;truongiv@csci-gnode-02:~/csci3800sp22/Lab3[truongiv@csci-gnode-02 Lab3]$ daysLeft 
+0 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:51:29 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 8 Minutes, 30 Seconds
+	Total number of seconds: 21438510 seconds
+1 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:51:32 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 8 Minutes, 27 Seconds
+	Total number of seconds: 21438507 seconds
+2 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:51:47 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 8 Minutes, 12 Seconds
+	Total number of seconds: 21438492 seconds
+3 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:51:50 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 8 Minutes, 9 Seconds
+	Total number of seconds: 21438489 seconds
+4 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:51:53 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 8 Minutes, 6 Seconds
+	Total number of seconds: 21438486 seconds
+^C5 By SIGINT:
+	Current date and time: 2022-04-17 Sunday 08:51:55 PM, MDT
+	Until 2022 Independence Day: 77 Days, 3 Hours, 8 Minutes, 4 Seconds
+	Total number of seconds: 6664084 seconds
+Quit (y/n)?:g
+Quit (y/n)?:S
+Quit (y/n)?:N
+6 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:08 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 51 Seconds
+	Total number of seconds: 21438471 seconds
+7 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:11 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 48 Seconds
+	Total number of seconds: 21438468 seconds
+8 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:14 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 45 Seconds
+	Total number of seconds: 21438465 seconds
+9 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:29 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 30 Seconds
+	Total number of seconds: 21438450 seconds
+^C10 By SIGINT:
+	Current date and time: 2022-04-17 Sunday 08:52:30 PM, MDT
+	Until 2022 Independence Day: 77 Days, 3 Hours, 7 Minutes, 29 Seconds
+	Total number of seconds: 6664049 seconds
+Quit (y/n)?:n
+11 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:32 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 27 Seconds
+	Total number of seconds: 21438447 seconds
+12 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:35 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 24 Seconds
+	Total number of seconds: 21438444 seconds
+13 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:50 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 9 Seconds
+	Total number of seconds: 21438429 seconds
+^C14 By SIGINT:
+	Current date and time: 2022-04-17 Sunday 08:52:52 PM, MDT
+	Until 2022 Independence Day: 77 Days, 3 Hours, 7 Minutes, 7 Seconds
+	Total number of seconds: 6664027 seconds
+Quit (y/n)?:n
+15 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:53 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 6 Seconds
+	Total number of seconds: 21438426 seconds
+16 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:52:56 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 7 Minutes, 3 Seconds
+	Total number of seconds: 21438423 seconds
+17 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:11 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 48 Seconds
+	Total number of seconds: 21438408 seconds
+18 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:14 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 45 Seconds
+	Total number of seconds: 21438405 seconds
+^C]0;truongiv@csci-gnode-02:~/csci3800sp22/Lab3[truongiv@csci-gnode-02 Lab3]$ daysLeft
+0 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:24 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 35 Seconds
+	Total number of seconds: 21438395 seconds
+1 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:27 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 32 Seconds
+	Total number of seconds: 21438392 seconds
+2 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:42 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 17 Seconds
+	Total number of seconds: 21438377 seconds
+3 By SIGALRM:
+	Current date and time: 2022-04-17 Sunday 08:53:45 PM, MDT
+	Until 2022 Christmas Day: 248 Days, 3 Hours, 6 Minutes, 14 Seconds
+	Total number of seconds: 21438374 seconds
+^C4 By SIGINT:
+	Current date and time: 2022-04-17 Sunday 08:53:46 PM, MDT
+	Until 2022 Independence Day: 77 Days, 3 Hours, 6 Minutes, 13 Seconds
+	Total number of seconds: 6663973 seconds
+Quit (y/n)?:Y
+]0;truongiv@csci-gnode-02:~/csci3800sp22/Lab3[truongiv@csci-gnode-02 Lab3]$ exit
+
+Script done on Sun Apr 17 20:53:55 2022
